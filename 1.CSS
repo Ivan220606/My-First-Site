@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+
+h1{
+  background-color: #191970;
+  margin: 6px;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Playfair Display SC', serif;
+}
+body{
+  background-image: url("https://i.pinimg.com/originals/03/28/60/032860ab0ae18865c73125511d1b998f.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no repeat;
+}
+li{
+  background-color: #0000FF;
+  text-align: center;
+  
+  }
+
+p{
+  margin-bottom: 20px;
+  text-align: justify;
+  background-color: #191970;
+  margin-left: 10px;
+  width: 25%;
+border-radius: 3%;  
+}
+.btn-group {
+  
+  margin-left: 10px;
+}
+#Space{
+  margin-left: 580px;
+  margin-top: -200px;
+
+  
+ }
+
+#Space img{
+  width: 1300px;
+}
+#Text{
+  margin-top: 20px;
+}
+
